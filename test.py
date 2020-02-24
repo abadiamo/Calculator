@@ -16,3 +16,7 @@ result2 = Calculator.applyUrbag(3,4)
 
 
 print("The apply result is", result2)
+
+result3 = Calculator.inventada(2,3,4)
+
+print("The result3 is", result3)

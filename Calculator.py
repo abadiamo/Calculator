@@ -16,3 +16,9 @@ class Calculator:
         urbag_constant = 12.4
         result = a*urbag_constant+b
         return result
+
+
+    def inventada(x,y,z):
+        result= (x + y )*z
+        return result
+    
