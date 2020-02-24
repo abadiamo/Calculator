@@ -11,3 +11,8 @@ from Calculator import Calculator
 result = Calculator.sum(3,4)
 
 print("The result is", result)
+
+result2 = Calculator.applyUrbag(3,4)
+
+
+print("The apply result is", result2)
